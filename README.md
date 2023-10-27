@@ -29,7 +29,9 @@
 
   Building the "Image Classification Quantization" Android App  in <a href="https://developer.android.com/studio">Android Studio IDE</a>, 
  using <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">Java</a> programming language and "<a href="https://www.tensorflow.org/">Machine Learning</a>" implementation 
- using the "<a href="https://www.tensorflow.org/lite">TensorFlow Lite</a>" - "</a href="https://www.tensorflow.org/lite/examples/image_classification/overview">Image Classification</a>" library with "Quantization Model", in which:
+ using the "<a href="https://www.tensorflow.org/lite">TensorFlow Lite</a>" -"<a href="https://www.tensorflow.org/lite/examples/image_classification/overview">Image Classification</a>" library with "Quantization Model", in which:
+</p>
+
 
 <p>
     &nbsp; &nbsp; &nbsp;
